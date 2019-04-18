@@ -1,3 +1,5 @@
+![flutter_example](https://user-images.githubusercontent.com/14055844/56340393-67da6000-61cf-11e9-8568-6b1187f364fc.gif)
+
 # state_example
 
 A new Flutter project.
